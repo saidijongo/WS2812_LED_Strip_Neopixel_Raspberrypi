@@ -4,7 +4,6 @@ import neopixel
 import time
 import random
 
-# Define the Neopixel strip
 strip = neopixel.NeoPixel(board.D18, 30, brightness=1)
 
 # Animation colors
