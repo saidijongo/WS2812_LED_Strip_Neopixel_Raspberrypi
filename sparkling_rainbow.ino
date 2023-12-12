@@ -1,3 +1,4 @@
+//Green wire is a data wire
 #include <Adafruit_NeoPixel.h>
 
 const int STRIP_LENGTH = 150;
