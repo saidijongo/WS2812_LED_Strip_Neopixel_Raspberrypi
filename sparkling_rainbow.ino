@@ -1,4 +1,7 @@
-//Green wire is a data wire
+//Green wire is a data wire (GPIO connected)
+//White-green and Green wires are ground GND (Choose any one)
+//Red-green and Red are +5V (Choose any one)
+
 #include <Adafruit_NeoPixel.h>
 
 const int STRIP_LENGTH = 150;
