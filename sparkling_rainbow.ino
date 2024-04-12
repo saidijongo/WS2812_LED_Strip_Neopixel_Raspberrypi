@@ -1,5 +1,5 @@
 //Green wire is a data wire (GPIO connected)
-//White-green and Green wires are ground GND (Choose any one)
+//White-green and white wires are ground GND (Choose any one)
 //Red-green and Red are +5V (Choose any one)
 //External 5V is connected to the LED strip and the power source ground is also connected to COMM arduino GND
 
